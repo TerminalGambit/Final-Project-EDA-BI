@@ -1,0 +1,294 @@
+{
+  "data_summary": {
+    "total_rows": 1724927,
+    "date_range": {
+      "start": "2024-12-09T13:00:00",
+      "end": "2025-12-19T06:00:00"
+    },
+    "n_brands": 24,
+    "n_products": 239,
+    "n_variants": 280
+  },
+  "sales_estimates": {
+    "total_estimated_sales": 73420,
+    "total_estimated_revenue": 1662999.79,
+    "avg_daily_sales": 195.27,
+    "avg_daily_revenue": 4422.87
+  },
+  "top_products_by_revenue": [
+    {
+      "product_id": "turban-en-satin",
+      "title": "TURBAN EN SATIN",
+      "brand": "AUX PORTES DU NATUREL",
+      "total_revenue": 88604.5,
+      "daily_velocity": 4.345744680851064
+    },
+    {
+      "product_id": "bundle-no-more-beauty",
+      "title": "PACK NO MORE CURLY",
+      "brand": "NO MORE BEAUTY",
+      "total_revenue": 84392.49,
+      "daily_velocity": 3.376854599406528
+    },
+    {
+      "product_id": "gel-coiffant-bio",
+      "title": "GEL COIFFANT BIO",
+      "brand": "DRUIDE",
+      "total_revenue": 64192.189999999995,
+      "daily_velocity": 12.59308510638298
+    },
+    {
+      "product_id": "all-in-oil",
+      "title": "ALL IN OIL",
+      "brand": "NO MORE BEAUTY",
+      "total_revenue": 51767.63,
+      "daily_velocity": 6.27299703264095
+    },
+    {
+      "product_id": "vegan-serum",
+      "title": "VEGAN SERUM",
+      "brand": "CUT BY FRED",
+      "total_revenue": 45521.3,
+      "daily_velocity": 4.24468085106383
+    },
+    {
+      "product_id": "cure-regenerante-protein-bonding",
+      "title": "CURE R\u00c9G\u00c9N\u00c9RANTE INTENSE PROTEIN BONDING",
+      "brand": "LAO CARE",
+      "total_revenue": 32593.26,
+      "daily_velocity": 1.0235294117647058
+    },
+    {
+      "product_id": "plopping",
+      "title": "SERVIETTE DE PLOPPING",
+      "brand": "AUX PORTES DU NATUREL",
+      "total_revenue": 29732.38,
+      "daily_velocity": 2.265957446808511
+    },
+    {
+      "product_id": "masque-coco-spiruline",
+      "title": "MASQUE PROT\u00c9IN\u00c9 COCO-SPIRULINE",
+      "brand": "KALIA NATURE",
+      "total_revenue": 27268.219999999998,
+      "daily_velocity": 2.867021276595745
+    },
+    {
+      "product_id": "curl-bloom-creme-definissante-3-en-1",
+      "title": "CURL BLOOM, CR\u00c8ME D\u00c9FINISSANTE 3-EN-1",
+      "brand": "NO MORE BEAUTY",
+      "total_revenue": 26114.48,
+      "daily_velocity": 1.7579787234042554
+    },
+    {
+      "product_id": "routine-pur-pure",
+      "title": "ROUTINE PUR & PURE",
+      "brand": "DRUIDE",
+      "total_revenue": 25257.32,
+      "daily_velocity": 1.560897435897436
+    }
+  ],
+  "top_brands_by_revenue": [
+    {
+      "brand": "AUX PORTES DU NATUREL",
+      "total_revenue": 210099.69,
+      "daily_velocity": 16.38031914893617,
+      "n_products": 15
+    },
+    {
+      "brand": "CUT BY FRED",
+      "total_revenue": 175094.2,
+      "daily_velocity": 16.529255319148938,
+      "n_products": 23
+    },
+    {
+      "brand": "LES SECRETS DE LOLY",
+      "total_revenue": 174948.04,
+      "daily_velocity": 23.38031914893617,
+      "n_products": 27
+    },
+    {
+      "brand": "NO MORE BEAUTY",
+      "total_revenue": 172315.6,
+      "daily_velocity": 12.196808510638299,
+      "n_products": 4
+    },
+    {
+      "brand": "DRUIDE",
+      "total_revenue": 137466.63999999998,
+      "daily_velocity": 19.497340425531913,
+      "n_products": 8
+    },
+    {
+      "brand": "IN HAIRCARE",
+      "total_revenue": 133973.81,
+      "daily_velocity": 14.680851063829786,
+      "n_products": 14
+    },
+    {
+      "brand": "CENTIFOLIA",
+      "total_revenue": 98739.21,
+      "daily_velocity": 20.375,
+      "n_products": 20
+    },
+    {
+      "brand": "LAO CARE",
+      "total_revenue": 73923.81999999999,
+      "daily_velocity": 4.361702127659575,
+      "n_products": 8
+    },
+    {
+      "brand": "BIOLOGIST MOOD",
+      "total_revenue": 68643.33,
+      "daily_velocity": 8.363636363636363,
+      "n_products": 8
+    },
+    {
+      "brand": "KALIA NATURE",
+      "total_revenue": 67143.91,
+      "daily_velocity": 8.430851063829786,
+      "n_products": 12
+    }
+  ],
+  "inventory_health": {
+    "avg_stockout_rate": 5.97,
+    "products_with_high_stockout": 39
+  },
+  "financial_summary": {
+    "total_revenue_at_risk": 247893.0,
+    "total_investment_required": 199287.0,
+    "total_revenue_opportunity": 0,
+    "expected_roi_pct": 87.0,
+    "avg_payback_days": 419.0,
+    "action_counts": {
+      "inventory": 72,
+      "pricing": 0,
+      "portfolio": 18
+    }
+  },
+  "action_recommendations": {
+    "top_actions": [
+      {
+        "category": "Inventory",
+        "action": "Reorder COFFRET DE NO\u00cbL - ROUTINE APAISANTE...",
+        "product_id": "coffret-de-noel-pur-pure",
+        "impact_eur": 1929.102127659574,
+        "investment_eur": 1451.87,
+        "effort": "Low",
+        "payback_days": 22,
+        "priority": 5,
+        "roi_ratio": 1.3287016934433347
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder BONNET D'HIVER DOUBL\u00c9 SATIN...",
+        "product_id": "bonnet-double-satin",
+        "impact_eur": 4982.944444444444,
+        "investment_eur": 3751.75,
+        "effort": "Low",
+        "payback_days": 22,
+        "priority": 5,
+        "roi_ratio": 1.3281653746770026
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder PACK CHEVEUX BOUCL\u00c9S...",
+        "product_id": "pack-cheveux-boucles-shaeri",
+        "impact_eur": 12787.2,
+        "investment_eur": 9731.0,
+        "effort": "Low",
+        "payback_days": 22,
+        "priority": 5,
+        "roi_ratio": 1.3140684410646388
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder PACK CHEVEUX ONDUL\u00c9S...",
+        "product_id": "pack-cheveux-ondules-shaeri",
+        "impact_eur": 14112.0,
+        "investment_eur": 10920.0,
+        "effort": "Low",
+        "payback_days": 23,
+        "priority": 5,
+        "roi_ratio": 1.2923076923076924
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder PACK ESSENTIEL - STOP CHUTE...",
+        "product_id": "pack-essentiel-stop-chute",
+        "impact_eur": 36902.58,
+        "investment_eur": 30955.469999999998,
+        "effort": "Low",
+        "payback_days": 25,
+        "priority": 5,
+        "roi_ratio": 1.1921182266009853
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder PACK ESSENTIEL - STOP CHUTE...",
+        "product_id": "pack-essentiel-stop-chute-3",
+        "impact_eur": 41633.64,
+        "investment_eur": 35076.659999999996,
+        "effort": "Low",
+        "payback_days": 25,
+        "priority": 5,
+        "roi_ratio": 1.1869328493647915
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder PACK ESSENTIEL - STOP CHUTE...",
+        "product_id": "pack-essentiel-stop-chute-2",
+        "impact_eur": 31635.480000000003,
+        "investment_eur": 26759.51,
+        "effort": "Low",
+        "payback_days": 25,
+        "priority": 5,
+        "roi_ratio": 1.1822144725370534
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder ROUTINE PUR & PURE...",
+        "product_id": "routine-pur-pure-promo",
+        "impact_eur": 46031.99999999999,
+        "investment_eur": 39127.2,
+        "effort": "Low",
+        "payback_days": 25,
+        "priority": 5,
+        "roi_ratio": 1.176470588235294
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder SERVIETTE DE PLOPPING...",
+        "product_id": "plopping",
+        "impact_eur": 2186.457831325301,
+        "investment_eur": 1863.75,
+        "effort": "Low",
+        "payback_days": 25,
+        "priority": 5,
+        "roi_ratio": 1.1731497418244405
+      },
+      {
+        "category": "Inventory",
+        "action": "Reorder COFFRET DE NO\u00cbL - CURE R\u00c9G\u00c9N\u00c9RANTE INTEN...",
+        "product_id": "cure-regenerante-intense-protein-bonding",
+        "impact_eur": 1717.9076923076925,
+        "investment_eur": 1465.5900000000001,
+        "effort": "Low",
+        "payback_days": 25,
+        "priority": 5,
+        "roi_ratio": 1.1721611721611722
+      }
+    ],
+    "total_actions": 13
+  },
+  "portfolio_recommendations": {
+    "brands_to_expand": 11,
+    "brands_to_review": 7,
+    "concentration_risk": {
+      "top_brand": "AUX PORTES DU NATUREL",
+      "top_brand_share": 12.6,
+      "top_3_share": 33.7,
+      "monthly_risk_exposure": 17508.0,
+      "mitigation_target": "Reduce top brand to <15% share within 12 months"
+    }
+  }
+}
